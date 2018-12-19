@@ -27,7 +27,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/prometheus/common"
+  name = "github.com/ovnworks/ovs_exporter"
 
 [prune]
   go-tests = true
