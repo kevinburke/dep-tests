@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-import _ "github.com/kevinburke/tss/lib"
+import bracket "github.com/kevinburke/dep-tests/issue-2046/bracket[bracket/boo"
 
 func main() {
-	fmt.Println("vim-go")
+	bracket.Do()
 }
