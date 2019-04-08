@@ -1,0 +1,6 @@
+[[constraint]]
+  # Required: the root import path of the project being constrained.
+  name = "bitbucket.org/ww/goautoneg"
+  # Recommended: the version constraint to enforce for the project.
+  # Note that only one of "branch", "version" or "revision" can be specified.
+  branch = "master"
